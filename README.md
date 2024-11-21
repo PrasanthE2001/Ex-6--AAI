@@ -1,11 +1,12 @@
 <H3>NAME: E PRASANTH </H3>
 <H3>REGISTER NO: 212221233002 </H3>
 <H3>EX. NO.6</H3>
-<H3>DATE: 12-11-2024 </H3>
+<H3>DATE: </H3>
 
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 
  ### Aim: 
+ 
  To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. 
  <BR>
 <h3>Algorithm:</h3>
